@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/ale/Documents/code/rust/aaa/src'
+let g:netrw_dirhist_0='/home/ale/Documents/code/rust/aaa'
+let g:netrw_dirhist_9='/home/ale/Documents/code/rust/aaa/.git'
+let g:netrw_dirhist_8='/home/ale/Documents/code/rust/aaa'
+let g:netrw_dirhist_7='/home/ale/Documents/code/rust/aaa/src'
+let g:netrw_dirhist_6='/home/ale/.config/nvim'
+let g:netrw_dirhist_5='/home/ale/.config'
+let g:netrw_dirhist_4='/home/ale/.config/sway'
+let g:netrw_dirhist_3='/etc/systemd/network'
+let g:netrw_dirhist_2='/home/ale/.config/sway'
